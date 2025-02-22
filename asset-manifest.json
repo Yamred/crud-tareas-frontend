@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/crud-tareas-frontend/static/css/main.e6c13ad2.css",
+    "main.js": "/crud-tareas-frontend/static/js/main.fc52ebb4.js",
+    "static/js/453.9e0fdf8e.chunk.js": "/crud-tareas-frontend/static/js/453.9e0fdf8e.chunk.js",
+    "index.html": "/crud-tareas-frontend/index.html",
+    "main.e6c13ad2.css.map": "/crud-tareas-frontend/static/css/main.e6c13ad2.css.map",
+    "main.fc52ebb4.js.map": "/crud-tareas-frontend/static/js/main.fc52ebb4.js.map",
+    "453.9e0fdf8e.chunk.js.map": "/crud-tareas-frontend/static/js/453.9e0fdf8e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.fc52ebb4.js"
+  ]
+}
